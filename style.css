@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(to top, #3b41c5 0%, #a981bb 49%, #ffc8a9 100%);
+}
+.col-md-6{
+    margin-top: 156px !important;
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-blend-mode: multiply,multiply;
+    border: 7px solid black !important;
+    border-radius: 10px;
+}
+input[type=button]{
+    width: 100%;
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+    border: 3px solid white;
+
+}
+input[type=text]{
+    width: 100%;
+    border: 3px solid black;
+}
+h1{
+    font-weight: bolder !important;
+    margin-top: 15px;
+}
