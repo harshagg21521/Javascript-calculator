@@ -1,4 +1,4 @@
-# Javascript-calculator
+# Javascript-calculator 
 This is my Beginner Project for frontend development. In this Calculator i've only used basic Html,Css and Javascript. 
 This is how my calculator looks like in browser:-
 ![image](https://user-images.githubusercontent.com/80303169/209306177-ccfc0a0b-41c9-47a7-b7fa-54b69abf93f2.png)
